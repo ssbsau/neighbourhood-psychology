@@ -1,0 +1,45 @@
+/contact-thanks.html /contact-thanks 301
+
+# Old Limecube URLs still indexed by Google
+/psychologist-buderim-and-sunshine-coast- /sunshine-coast 301
+/psychologist-buderim-and-sunshine-coast  /sunshine-coast 301
+/telehealth-psychologist-australia        /telehealth 301
+/therapy-services--sunshine-coast         /therapy-services 301
+/anxiety-therapy--sunshine-coast          /anxiety-therapy 301
+/autism-assessment--sunshine-coast        /autism-assessment 301
+/adhd-assessment--sunshine-coast          /adhd-assessment 301
+/ocd-treatment--sunshine-coast            /ocd-treatment 301
+/child-family-therapy--sunshine-coast     /child-family-therapy 301
+/veterans-therapy--sunshine-coast         /veterans-therapy 301
+/learning-assessment--sunshine-coast      /learning-assessment 301
+
+# Other old Limecube URLs
+/dealing-with-ptsd-tips                   /article-ptsd 301
+/dealing-with-ptsd                        /article-ptsd 301
+/10-essential-tips-for-beginners          /articles 301
+/how-to-overcome-challenges               /articles 301
+/our-services                             /therapy-services 301
+
+# .html extension redirects (belt and braces)
+/therapy-services.html      /therapy-services 301
+/autism-assessment.html     /autism-assessment 301
+/adhd-assessment.html       /adhd-assessment 301
+/anxiety-therapy.html       /anxiety-therapy 301
+/ocd-treatment.html         /ocd-treatment 301
+/child-family-therapy.html  /child-family-therapy 301
+/veterans-therapy.html      /veterans-therapy 301
+/learning-assessment.html   /learning-assessment 301
+/sunshine-coast.html        /sunshine-coast 301
+/telehealth.html            /telehealth 301
+/about.html                 /about 301
+/articles.html              /articles 301
+/faqs.html                  /faqs 301
+/contact.html               /contact 301
+/session-fees.html          /session-fees 301
+/assessment-fees.html       /assessment-fees 301
+/parent-faq-assessments.html /parent-faq-assessments 301
+/privacy.html               /privacy 301
+/article-ptsd.html          /article-ptsd 301
+/article-screen-time.html   /article-screen-time 301
+/article-helping-children.html /article-helping-children 301
+/article-psychological-assessments.html /article-psychological-assessments 301
