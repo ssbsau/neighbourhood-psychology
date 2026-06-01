@@ -3,129 +3,127 @@
 
   <!-- Core pages -->
   <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/</loc>
+    <loc>https://neighbourhoodpsychology.com.au/</loc>
     <priority>1.0</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/about</loc>
+    <loc>https://neighbourhoodpsychology.com.au/therapy-services</loc>
     <priority>0.9</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/therapy-services</loc>
+    <loc>https://neighbourhoodpsychology.com.au/sunshine-coast</loc>
     <priority>0.9</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/sunshine-coast</loc>
-    <priority>0.9</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/telehealth</loc>
+    <loc>https://neighbourhoodpsychology.com.au/telehealth</loc>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/contact</loc>
+    <loc>https://neighbourhoodpsychology.com.au/about</loc>
     <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://neighbourhoodpsychology.com.au/faqs</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://neighbourhoodpsychology.com.au/contact</loc>
+    <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
 
   <!-- Service pages -->
   <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/adhd-assessment</loc>
+    <loc>https://neighbourhoodpsychology.com.au/autism-assessment</loc>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://neighbourhoodpsychology.com.au/adhd-assessment</loc>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://neighbourhoodpsychology.com.au/anxiety-therapy</loc>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/autism-assessment</loc>
+    <loc>https://neighbourhoodpsychology.com.au/ocd-treatment</loc>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/learning-assessment</loc>
-    <priority>0.7</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/anxiety-therapy</loc>
+    <loc>https://neighbourhoodpsychology.com.au/child-family-therapy</loc>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/ocd-treatment</loc>
-    <priority>0.7</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/child-family-therapy</loc>
+    <loc>https://neighbourhoodpsychology.com.au/veterans-therapy</loc>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/veterans-therapy</loc>
+    <loc>https://neighbourhoodpsychology.com.au/learning-assessment</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
 
   <!-- Fees -->
   <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/session-fees</loc>
+    <loc>https://neighbourhoodpsychology.com.au/session-fees</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/assessment-fees</loc>
+    <loc>https://neighbourhoodpsychology.com.au/assessment-fees</loc>
     <priority>0.7</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-
-  <!-- FAQs -->
-  <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/faqs</loc>
-    <priority>0.7</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/parent-faq-assessments</loc>
-    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
 
   <!-- Articles -->
   <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/articles</loc>
+    <loc>https://neighbourhoodpsychology.com.au/articles</loc>
     <priority>0.6</priority>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/article-screen-time</loc>
+    <loc>https://neighbourhoodpsychology.com.au/article-screen-time</loc>
     <priority>0.5</priority>
-    <changefreq>monthly</changefreq>
+    <changefreq>yearly</changefreq>
   </url>
   <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/article-ptsd</loc>
+    <loc>https://neighbourhoodpsychology.com.au/article-ptsd</loc>
     <priority>0.5</priority>
-    <changefreq>monthly</changefreq>
+    <changefreq>yearly</changefreq>
   </url>
   <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/article-helping-children</loc>
+    <loc>https://neighbourhoodpsychology.com.au/article-helping-children</loc>
     <priority>0.5</priority>
-    <changefreq>monthly</changefreq>
+    <changefreq>yearly</changefreq>
   </url>
   <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/article-psychological-assessments</loc>
+    <loc>https://neighbourhoodpsychology.com.au/article-psychological-assessments</loc>
     <priority>0.5</priority>
-    <changefreq>monthly</changefreq>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://neighbourhoodpsychology.com.au/article-adhd-assessment-guide</loc>
+    <priority>0.6</priority>
+    <changefreq>yearly</changefreq>
   </url>
 
   <!-- Other -->
   <url>
-    <loc>https://www.neighbourhoodpsychology.com.au/privacy</loc>
-    <priority>0.3</priority>
-    <changefreq>yearly</changefreq>
+    <loc>https://neighbourhoodpsychology.com.au/parent-faq-assessments</loc>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
 
 </urlset>
